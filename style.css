@@ -26,3 +26,24 @@ p {
     line-height: 1.5;
     margin: 0;
 }
+
+.play-again {
+    padding: 8px 15px;
+    border: 0;
+    background: #f7f7f9;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.msg {
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+.box {
+    border: 1px solid #f7f7f9;
+    display: inline-block;
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+}
