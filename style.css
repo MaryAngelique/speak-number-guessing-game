@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nuosu SIL', serif;
+    background: #2f3542 url("img/bg.jpg") no-repeat left center/cover;
+    color: #f7f7f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+h1,
+h3 {
+    margin-bottom: 0;
+}
+
+p {
+    line-height: 1.5;
+    margin: 0;
+}
