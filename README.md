@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Speak Number Guessing Game GitHub Solution](https://github.com/MaryAngelique/speak-number-guessing-game)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
