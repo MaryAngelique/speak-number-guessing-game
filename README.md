@@ -16,11 +16,7 @@
 
 Users should be able to:
 
-#### - 
-
-#### - 
-
-#### - 
+#### - Guess the number by speaking
 
 
 ### Links
