@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Speak Number Guessing Game GitHub Solution](https://github.com/MaryAngelique/speak-number-guessing-game)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Speak Number Guessing Game Website](https://speak-your-number.vercel.app/)
 
 ## My process
 
